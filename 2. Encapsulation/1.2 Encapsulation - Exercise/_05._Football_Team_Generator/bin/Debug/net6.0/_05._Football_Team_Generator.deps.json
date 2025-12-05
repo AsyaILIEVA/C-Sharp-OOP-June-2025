@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "_05._Football_Team_Generator/1.0.0": {
+        "runtime": {
+          "_05._Football_Team_Generator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_05._Football_Team_Generator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

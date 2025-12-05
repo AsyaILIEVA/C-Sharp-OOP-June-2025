@@ -1,0 +1,14 @@
+D:\CS_OOP_EXAMS\Exercises\Encapsulation\_01._Class_Box_Data\bin\Debug\net6.0\_01._Class_Box_Data.exe
+D:\CS_OOP_EXAMS\Exercises\Encapsulation\_01._Class_Box_Data\bin\Debug\net6.0\_01._Class_Box_Data.deps.json
+D:\CS_OOP_EXAMS\Exercises\Encapsulation\_01._Class_Box_Data\bin\Debug\net6.0\_01._Class_Box_Data.runtimeconfig.json
+D:\CS_OOP_EXAMS\Exercises\Encapsulation\_01._Class_Box_Data\bin\Debug\net6.0\_01._Class_Box_Data.dll
+D:\CS_OOP_EXAMS\Exercises\Encapsulation\_01._Class_Box_Data\bin\Debug\net6.0\_01._Class_Box_Data.pdb
+D:\CS_OOP_EXAMS\Exercises\Encapsulation\_01._Class_Box_Data\obj\Debug\net6.0\_01._Class_Box_Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS_OOP_EXAMS\Exercises\Encapsulation\_01._Class_Box_Data\obj\Debug\net6.0\_01._Class_Box_Data.AssemblyInfoInputs.cache
+D:\CS_OOP_EXAMS\Exercises\Encapsulation\_01._Class_Box_Data\obj\Debug\net6.0\_01._Class_Box_Data.AssemblyInfo.cs
+D:\CS_OOP_EXAMS\Exercises\Encapsulation\_01._Class_Box_Data\obj\Debug\net6.0\_01._Class_Box_Data.csproj.CoreCompileInputs.cache
+D:\CS_OOP_EXAMS\Exercises\Encapsulation\_01._Class_Box_Data\obj\Debug\net6.0\_01._Class_Box_Data.dll
+D:\CS_OOP_EXAMS\Exercises\Encapsulation\_01._Class_Box_Data\obj\Debug\net6.0\refint\_01._Class_Box_Data.dll
+D:\CS_OOP_EXAMS\Exercises\Encapsulation\_01._Class_Box_Data\obj\Debug\net6.0\_01._Class_Box_Data.pdb
+D:\CS_OOP_EXAMS\Exercises\Encapsulation\_01._Class_Box_Data\obj\Debug\net6.0\_01._Class_Box_Data.genruntimeconfig.cache
+D:\CS_OOP_EXAMS\Exercises\Encapsulation\_01._Class_Box_Data\obj\Debug\net6.0\ref\_01._Class_Box_Data.dll
