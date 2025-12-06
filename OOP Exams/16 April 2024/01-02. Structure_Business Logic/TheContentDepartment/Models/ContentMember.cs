@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using TheContentDepartment.Utilities.Messages;
+﻿using TheContentDepartment.Utilities.Messages;
 
 namespace TheContentDepartment.Models
 {
@@ -12,7 +7,10 @@ namespace TheContentDepartment.Models
         public ContentMember(string name, string path)
             : base(name, path)
         {
-            if (path != "Python" && path != "CSharp" && path != "Java" && path != "JavaScript")
+            if (path != "Python" 
+                && path != "CSharp" 
+                && path != "Java" 
+                && path != "JavaScript")
             {
                 throw new ArgumentException(string.Format(ExceptionMessages.PathIncorrect, path));
             }

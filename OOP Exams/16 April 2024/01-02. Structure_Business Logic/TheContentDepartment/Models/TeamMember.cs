@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using TheContentDepartment.Models.Contracts;
+﻿using TheContentDepartment.Models.Contracts;
 using TheContentDepartment.Utilities.Messages;
 
 namespace TheContentDepartment.Models
@@ -30,6 +25,7 @@ namespace TheContentDepartment.Models
                 {
                     throw new ArgumentException(string.Format(ExceptionMessages.NameNullOrWhiteSpace));
                 }
+
                 name = value;
             }
         }

@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using TheContentDepartment.Models.Contracts;
+﻿using TheContentDepartment.Models.Contracts;
 using TheContentDepartment.Repositories.Contracts;
 
 namespace TheContentDepartment.Repositories
@@ -24,6 +19,7 @@ namespace TheContentDepartment.Repositories
             models.Add(model);
         }
 
-        public IResource TakeOne(string modelName) => models.FirstOrDefault(m => m.Name == modelName);
+        public IResource TakeOne(string modelName) => 
+            models.FirstOrDefault(m => m.Name == modelName);
     }
 }

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Text;
 using TheContentDepartment.Core.Contracts;
 using TheContentDepartment.Models;
 using TheContentDepartment.Models.Contracts;
