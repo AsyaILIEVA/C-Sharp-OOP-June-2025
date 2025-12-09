@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CS_OOP_EXAMS\\06_April_2024\\InfluencerManagerApp-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE384213-4124-47DE-B539-826A6A0ACF9D}|InfluencerManagerApp\\InfluencerManagerApp.csproj|d:\\cs_oop_exams\\06_april_2024\\influencermanagerapp-skeleton\\influencermanagerapp\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE384213-4124-47DE-B539-826A6A0ACF9D}|InfluencerManagerApp\\InfluencerManagerApp.csproj|solutionrelative:influencermanagerapp\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE384213-4124-47DE-B539-826A6A0ACF9D}|InfluencerManagerApp\\InfluencerManagerApp.csproj|d:\\cs_oop_exams\\06_april_2024\\influencermanagerapp-skeleton\\influencermanagerapp\\repositories\\influencerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE384213-4124-47DE-B539-826A6A0ACF9D}|InfluencerManagerApp\\InfluencerManagerApp.csproj|solutionrelative:influencermanagerapp\\repositories\\influencerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE384213-4124-47DE-B539-826A6A0ACF9D}|InfluencerManagerApp\\InfluencerManagerApp.csproj|d:\\cs_oop_exams\\06_april_2024\\influencermanagerapp-skeleton\\influencermanagerapp\\repositories\\campaignrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE384213-4124-47DE-B539-826A6A0ACF9D}|InfluencerManagerApp\\InfluencerManagerApp.csproj|solutionrelative:influencermanagerapp\\repositories\\campaignrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE384213-4124-47DE-B539-826A6A0ACF9D}|InfluencerManagerApp\\InfluencerManagerApp.csproj|d:\\cs_oop_exams\\06_april_2024\\influencermanagerapp-skeleton\\influencermanagerapp\\models\\bloggerinfluencer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE384213-4124-47DE-B539-826A6A0ACF9D}|InfluencerManagerApp\\InfluencerManagerApp.csproj|solutionrelative:influencermanagerapp\\models\\bloggerinfluencer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE384213-4124-47DE-B539-826A6A0ACF9D}|InfluencerManagerApp\\InfluencerManagerApp.csproj|d:\\cs_oop_exams\\06_april_2024\\influencermanagerapp-skeleton\\influencermanagerapp\\models\\businessinfluencer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE384213-4124-47DE-B539-826A6A0ACF9D}|InfluencerManagerApp\\InfluencerManagerApp.csproj|solutionrelative:influencermanagerapp\\models\\businessinfluencer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE384213-4124-47DE-B539-826A6A0ACF9D}|InfluencerManagerApp\\InfluencerManagerApp.csproj|d:\\cs_oop_exams\\06_april_2024\\influencermanagerapp-skeleton\\influencermanagerapp\\models\\fashioninfluencer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE384213-4124-47DE-B539-826A6A0ACF9D}|InfluencerManagerApp\\InfluencerManagerApp.csproj|solutionrelative:influencermanagerapp\\models\\fashioninfluencer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE384213-4124-47DE-B539-826A6A0ACF9D}|InfluencerManagerApp\\InfluencerManagerApp.csproj|d:\\cs_oop_exams\\06_april_2024\\influencermanagerapp-skeleton\\influencermanagerapp\\models\\servicecampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE384213-4124-47DE-B539-826A6A0ACF9D}|InfluencerManagerApp\\InfluencerManagerApp.csproj|solutionrelative:influencermanagerapp\\models\\servicecampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE384213-4124-47DE-B539-826A6A0ACF9D}|InfluencerManagerApp\\InfluencerManagerApp.csproj|d:\\cs_oop_exams\\06_april_2024\\influencermanagerapp-skeleton\\influencermanagerapp\\models\\productcampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE384213-4124-47DE-B539-826A6A0ACF9D}|InfluencerManagerApp\\InfluencerManagerApp.csproj|solutionrelative:influencermanagerapp\\models\\productcampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE384213-4124-47DE-B539-826A6A0ACF9D}|InfluencerManagerApp\\InfluencerManagerApp.csproj|d:\\cs_oop_exams\\06_april_2024\\influencermanagerapp-skeleton\\influencermanagerapp\\models\\campaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE384213-4124-47DE-B539-826A6A0ACF9D}|InfluencerManagerApp\\InfluencerManagerApp.csproj|solutionrelative:influencermanagerapp\\models\\campaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE384213-4124-47DE-B539-826A6A0ACF9D}|InfluencerManagerApp\\InfluencerManagerApp.csproj|d:\\cs_oop_exams\\06_april_2024\\influencermanagerapp-skeleton\\influencermanagerapp\\models\\influencer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE384213-4124-47DE-B539-826A6A0ACF9D}|InfluencerManagerApp\\InfluencerManagerApp.csproj|solutionrelative:influencermanagerapp\\models\\influencer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE384213-4124-47DE-B539-826A6A0ACF9D}|InfluencerManagerApp\\InfluencerManagerApp.csproj|d:\\cs_oop_exams\\06_april_2024\\influencermanagerapp-skeleton\\influencermanagerapp\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE384213-4124-47DE-B539-826A6A0ACF9D}|InfluencerManagerApp\\InfluencerManagerApp.csproj|solutionrelative:influencermanagerapp\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FashionInfluencer.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\06_April_2024\\InfluencerManagerApp-Skeleton\\InfluencerManagerApp\\Models\\FashionInfluencer.cs",
+              "RelativeDocumentMoniker": "InfluencerManagerApp\\Models\\FashionInfluencer.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\06_April_2024\\InfluencerManagerApp-Skeleton\\InfluencerManagerApp\\Models\\FashionInfluencer.cs",
+              "RelativeToolTip": "InfluencerManagerApp\\Models\\FashionInfluencer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T13:55:30.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceCampaign.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\06_April_2024\\InfluencerManagerApp-Skeleton\\InfluencerManagerApp\\Models\\ServiceCampaign.cs",
+              "RelativeDocumentMoniker": "InfluencerManagerApp\\Models\\ServiceCampaign.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\06_April_2024\\InfluencerManagerApp-Skeleton\\InfluencerManagerApp\\Models\\ServiceCampaign.cs",
+              "RelativeToolTip": "InfluencerManagerApp\\Models\\ServiceCampaign.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:04:05.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BusinessInfluencer.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\06_April_2024\\InfluencerManagerApp-Skeleton\\InfluencerManagerApp\\Models\\BusinessInfluencer.cs",
+              "RelativeDocumentMoniker": "InfluencerManagerApp\\Models\\BusinessInfluencer.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\06_April_2024\\InfluencerManagerApp-Skeleton\\InfluencerManagerApp\\Models\\BusinessInfluencer.cs",
+              "RelativeToolTip": "InfluencerManagerApp\\Models\\BusinessInfluencer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T13:44:52.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BloggerInfluencer.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\06_April_2024\\InfluencerManagerApp-Skeleton\\InfluencerManagerApp\\Models\\BloggerInfluencer.cs",
+              "RelativeDocumentMoniker": "InfluencerManagerApp\\Models\\BloggerInfluencer.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\06_April_2024\\InfluencerManagerApp-Skeleton\\InfluencerManagerApp\\Models\\BloggerInfluencer.cs",
+              "RelativeToolTip": "InfluencerManagerApp\\Models\\BloggerInfluencer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T13:58:36.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CampaignRepository.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\06_April_2024\\InfluencerManagerApp-Skeleton\\InfluencerManagerApp\\Repositories\\CampaignRepository.cs",
+              "RelativeDocumentMoniker": "InfluencerManagerApp\\Repositories\\CampaignRepository.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\06_April_2024\\InfluencerManagerApp-Skeleton\\InfluencerManagerApp\\Repositories\\CampaignRepository.cs",
+              "RelativeToolTip": "InfluencerManagerApp\\Repositories\\CampaignRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T12:59:35.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InfluencerRepository.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\06_April_2024\\InfluencerManagerApp-Skeleton\\InfluencerManagerApp\\Repositories\\InfluencerRepository.cs",
+              "RelativeDocumentMoniker": "InfluencerManagerApp\\Repositories\\InfluencerRepository.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\06_April_2024\\InfluencerManagerApp-Skeleton\\InfluencerManagerApp\\Repositories\\InfluencerRepository.cs",
+              "RelativeToolTip": "InfluencerManagerApp\\Repositories\\InfluencerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T12:58:06.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\06_April_2024\\InfluencerManagerApp-Skeleton\\InfluencerManagerApp\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "InfluencerManagerApp\\Core\\Controller.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\06_April_2024\\InfluencerManagerApp-Skeleton\\InfluencerManagerApp\\Core\\Controller.cs*",
+              "RelativeToolTip": "InfluencerManagerApp\\Core\\Controller.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T22:07:48.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductCampaign.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\06_April_2024\\InfluencerManagerApp-Skeleton\\InfluencerManagerApp\\Models\\ProductCampaign.cs",
+              "RelativeDocumentMoniker": "InfluencerManagerApp\\Models\\ProductCampaign.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\06_April_2024\\InfluencerManagerApp-Skeleton\\InfluencerManagerApp\\Models\\ProductCampaign.cs",
+              "RelativeToolTip": "InfluencerManagerApp\\Models\\ProductCampaign.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T14:00:53.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Campaign.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\06_April_2024\\InfluencerManagerApp-Skeleton\\InfluencerManagerApp\\Models\\Campaign.cs",
+              "RelativeDocumentMoniker": "InfluencerManagerApp\\Models\\Campaign.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\06_April_2024\\InfluencerManagerApp-Skeleton\\InfluencerManagerApp\\Models\\Campaign.cs",
+              "RelativeToolTip": "InfluencerManagerApp\\Models\\Campaign.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T12:57:00.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Influencer.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\06_April_2024\\InfluencerManagerApp-Skeleton\\InfluencerManagerApp\\Models\\Influencer.cs",
+              "RelativeDocumentMoniker": "InfluencerManagerApp\\Models\\Influencer.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\06_April_2024\\InfluencerManagerApp-Skeleton\\InfluencerManagerApp\\Models\\Influencer.cs",
+              "RelativeToolTip": "InfluencerManagerApp\\Models\\Influencer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T12:55:18.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\06_April_2024\\InfluencerManagerApp-Skeleton\\InfluencerManagerApp\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "InfluencerManagerApp\\Core\\Engine.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\06_April_2024\\InfluencerManagerApp-Skeleton\\InfluencerManagerApp\\Core\\Engine.cs",
+              "RelativeToolTip": "InfluencerManagerApp\\Core\\Engine.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T22:07:21.595Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
