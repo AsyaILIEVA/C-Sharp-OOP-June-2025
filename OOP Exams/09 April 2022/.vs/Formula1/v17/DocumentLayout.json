@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CS_OOP_EXAMS\\09_Apr_2022\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BB46FB-C417-491E-9D9E-9DA02CB7C936}|Formula1\\Formula1.csproj|d:\\cs_oop_exams\\09_apr_2022\\formula1\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BB46FB-C417-491E-9D9E-9DA02CB7C936}|Formula1\\Formula1.csproj|solutionrelative:formula1\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BB46FB-C417-491E-9D9E-9DA02CB7C936}|Formula1\\Formula1.csproj|d:\\cs_oop_exams\\09_apr_2022\\formula1\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BB46FB-C417-491E-9D9E-9DA02CB7C936}|Formula1\\Formula1.csproj|solutionrelative:formula1\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BB46FB-C417-491E-9D9E-9DA02CB7C936}|Formula1\\Formula1.csproj|d:\\cs_oop_exams\\09_apr_2022\\formula1\\repositories\\racerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BB46FB-C417-491E-9D9E-9DA02CB7C936}|Formula1\\Formula1.csproj|solutionrelative:formula1\\repositories\\racerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BB46FB-C417-491E-9D9E-9DA02CB7C936}|Formula1\\Formula1.csproj|d:\\cs_oop_exams\\09_apr_2022\\formula1\\repositories\\pilotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BB46FB-C417-491E-9D9E-9DA02CB7C936}|Formula1\\Formula1.csproj|solutionrelative:formula1\\repositories\\pilotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BB46FB-C417-491E-9D9E-9DA02CB7C936}|Formula1\\Formula1.csproj|d:\\cs_oop_exams\\09_apr_2022\\formula1\\repositories\\formulaonecarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BB46FB-C417-491E-9D9E-9DA02CB7C936}|Formula1\\Formula1.csproj|solutionrelative:formula1\\repositories\\formulaonecarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BB46FB-C417-491E-9D9E-9DA02CB7C936}|Formula1\\Formula1.csproj|d:\\cs_oop_exams\\09_apr_2022\\formula1\\models\\williams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BB46FB-C417-491E-9D9E-9DA02CB7C936}|Formula1\\Formula1.csproj|solutionrelative:formula1\\models\\williams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BB46FB-C417-491E-9D9E-9DA02CB7C936}|Formula1\\Formula1.csproj|d:\\cs_oop_exams\\09_apr_2022\\formula1\\models\\ferrari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BB46FB-C417-491E-9D9E-9DA02CB7C936}|Formula1\\Formula1.csproj|solutionrelative:formula1\\models\\ferrari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BB46FB-C417-491E-9D9E-9DA02CB7C936}|Formula1\\Formula1.csproj|d:\\cs_oop_exams\\09_apr_2022\\formula1\\models\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BB46FB-C417-491E-9D9E-9DA02CB7C936}|Formula1\\Formula1.csproj|solutionrelative:formula1\\models\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BB46FB-C417-491E-9D9E-9DA02CB7C936}|Formula1\\Formula1.csproj|d:\\cs_oop_exams\\09_apr_2022\\formula1\\models\\pilot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BB46FB-C417-491E-9D9E-9DA02CB7C936}|Formula1\\Formula1.csproj|solutionrelative:formula1\\models\\pilot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7BB46FB-C417-491E-9D9E-9DA02CB7C936}|Formula1\\Formula1.csproj|d:\\cs_oop_exams\\09_apr_2022\\formula1\\models\\formulaonecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7BB46FB-C417-491E-9D9E-9DA02CB7C936}|Formula1\\Formula1.csproj|solutionrelative:formula1\\models\\formulaonecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\09_Apr_2022\\Formula1\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "Formula1\\Core\\Engine.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\09_Apr_2022\\Formula1\\Core\\Engine.cs",
+              "RelativeToolTip": "Formula1\\Core\\Engine.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T23:07:25.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\09_Apr_2022\\Formula1\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "Formula1\\Core\\Controller.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\09_Apr_2022\\Formula1\\Core\\Controller.cs",
+              "RelativeToolTip": "Formula1\\Core\\Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T23:07:20.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RaceRepository.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\09_Apr_2022\\Formula1\\Repositories\\RaceRepository.cs",
+              "RelativeDocumentMoniker": "Formula1\\Repositories\\RaceRepository.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\09_Apr_2022\\Formula1\\Repositories\\RaceRepository.cs",
+              "RelativeToolTip": "Formula1\\Repositories\\RaceRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T23:30:56.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PilotRepository.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\09_Apr_2022\\Formula1\\Repositories\\PilotRepository.cs",
+              "RelativeDocumentMoniker": "Formula1\\Repositories\\PilotRepository.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\09_Apr_2022\\Formula1\\Repositories\\PilotRepository.cs",
+              "RelativeToolTip": "Formula1\\Repositories\\PilotRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T23:30:07.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormulaOneCarRepository.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\09_Apr_2022\\Formula1\\Repositories\\FormulaOneCarRepository.cs",
+              "RelativeDocumentMoniker": "Formula1\\Repositories\\FormulaOneCarRepository.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\09_Apr_2022\\Formula1\\Repositories\\FormulaOneCarRepository.cs",
+              "RelativeToolTip": "Formula1\\Repositories\\FormulaOneCarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T23:28:26.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Race.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\09_Apr_2022\\Formula1\\Models\\Race.cs",
+              "RelativeDocumentMoniker": "Formula1\\Models\\Race.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\09_Apr_2022\\Formula1\\Models\\Race.cs",
+              "RelativeToolTip": "Formula1\\Models\\Race.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T23:26:55.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pilot.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\09_Apr_2022\\Formula1\\Models\\Pilot.cs",
+              "RelativeDocumentMoniker": "Formula1\\Models\\Pilot.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\09_Apr_2022\\Formula1\\Models\\Pilot.cs",
+              "RelativeToolTip": "Formula1\\Models\\Pilot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T23:24:50.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Williams.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\09_Apr_2022\\Formula1\\Models\\Williams.cs",
+              "RelativeDocumentMoniker": "Formula1\\Models\\Williams.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\09_Apr_2022\\Formula1\\Models\\Williams.cs",
+              "RelativeToolTip": "Formula1\\Models\\Williams.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T23:23:45.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ferrari.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\09_Apr_2022\\Formula1\\Models\\Ferrari.cs",
+              "RelativeDocumentMoniker": "Formula1\\Models\\Ferrari.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\09_Apr_2022\\Formula1\\Models\\Ferrari.cs",
+              "RelativeToolTip": "Formula1\\Models\\Ferrari.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T23:22:39.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormulaOneCar.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\09_Apr_2022\\Formula1\\Models\\FormulaOneCar.cs",
+              "RelativeDocumentMoniker": "Formula1\\Models\\FormulaOneCar.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\09_Apr_2022\\Formula1\\Models\\FormulaOneCar.cs",
+              "RelativeToolTip": "Formula1\\Models\\FormulaOneCar.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwDYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T23:20:33.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

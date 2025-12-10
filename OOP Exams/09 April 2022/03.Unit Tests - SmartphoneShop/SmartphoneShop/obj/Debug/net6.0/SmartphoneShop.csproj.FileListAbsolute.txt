@@ -1,0 +1,14 @@
+D:\CS_OOP_EXAMS\09_Apr_2022\03.Unit Tests\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.exe
+D:\CS_OOP_EXAMS\09_Apr_2022\03.Unit Tests\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.deps.json
+D:\CS_OOP_EXAMS\09_Apr_2022\03.Unit Tests\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.runtimeconfig.json
+D:\CS_OOP_EXAMS\09_Apr_2022\03.Unit Tests\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.dll
+D:\CS_OOP_EXAMS\09_Apr_2022\03.Unit Tests\SmartphoneShop\bin\Debug\net6.0\SmartphoneShop.pdb
+D:\CS_OOP_EXAMS\09_Apr_2022\03.Unit Tests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS_OOP_EXAMS\09_Apr_2022\03.Unit Tests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.AssemblyInfoInputs.cache
+D:\CS_OOP_EXAMS\09_Apr_2022\03.Unit Tests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.AssemblyInfo.cs
+D:\CS_OOP_EXAMS\09_Apr_2022\03.Unit Tests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.csproj.CoreCompileInputs.cache
+D:\CS_OOP_EXAMS\09_Apr_2022\03.Unit Tests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.dll
+D:\CS_OOP_EXAMS\09_Apr_2022\03.Unit Tests\SmartphoneShop\obj\Debug\net6.0\refint\SmartphoneShop.dll
+D:\CS_OOP_EXAMS\09_Apr_2022\03.Unit Tests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.pdb
+D:\CS_OOP_EXAMS\09_Apr_2022\03.Unit Tests\SmartphoneShop\obj\Debug\net6.0\SmartphoneShop.genruntimeconfig.cache
+D:\CS_OOP_EXAMS\09_Apr_2022\03.Unit Tests\SmartphoneShop\obj\Debug\net6.0\ref\SmartphoneShop.dll
