@@ -1,0 +1,14 @@
+D:\CS_OOP_EXAMS\15_Aug_2023\Author Solution\Handball\bin\Debug\net6.0\Handball.exe
+D:\CS_OOP_EXAMS\15_Aug_2023\Author Solution\Handball\bin\Debug\net6.0\Handball.deps.json
+D:\CS_OOP_EXAMS\15_Aug_2023\Author Solution\Handball\bin\Debug\net6.0\Handball.runtimeconfig.json
+D:\CS_OOP_EXAMS\15_Aug_2023\Author Solution\Handball\bin\Debug\net6.0\Handball.dll
+D:\CS_OOP_EXAMS\15_Aug_2023\Author Solution\Handball\bin\Debug\net6.0\Handball.pdb
+D:\CS_OOP_EXAMS\15_Aug_2023\Author Solution\Handball\obj\Debug\net6.0\Handball.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS_OOP_EXAMS\15_Aug_2023\Author Solution\Handball\obj\Debug\net6.0\Handball.AssemblyInfoInputs.cache
+D:\CS_OOP_EXAMS\15_Aug_2023\Author Solution\Handball\obj\Debug\net6.0\Handball.AssemblyInfo.cs
+D:\CS_OOP_EXAMS\15_Aug_2023\Author Solution\Handball\obj\Debug\net6.0\Handball.csproj.CoreCompileInputs.cache
+D:\CS_OOP_EXAMS\15_Aug_2023\Author Solution\Handball\obj\Debug\net6.0\Handball.dll
+D:\CS_OOP_EXAMS\15_Aug_2023\Author Solution\Handball\obj\Debug\net6.0\refint\Handball.dll
+D:\CS_OOP_EXAMS\15_Aug_2023\Author Solution\Handball\obj\Debug\net6.0\Handball.pdb
+D:\CS_OOP_EXAMS\15_Aug_2023\Author Solution\Handball\obj\Debug\net6.0\Handball.genruntimeconfig.cache
+D:\CS_OOP_EXAMS\15_Aug_2023\Author Solution\Handball\obj\Debug\net6.0\ref\Handball.dll
