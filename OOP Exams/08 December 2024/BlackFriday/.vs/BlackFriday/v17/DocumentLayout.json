@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CS_OOP_EXAMS\\08_Dec_2024\\BlackFriday-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|d:\\cs_oop_exams\\08_dec_2024\\blackfriday-skeleton\\blackfriday\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|d:\\cs_oop_exams\\08_dec_2024\\blackfriday-skeleton\\blackfriday\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|d:\\cs_oop_exams\\08_dec_2024\\blackfriday-skeleton\\blackfriday\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|d:\\cs_oop_exams\\08_dec_2024\\blackfriday-skeleton\\blackfriday\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|d:\\cs_oop_exams\\08_dec_2024\\blackfriday-skeleton\\blackfriday\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|d:\\cs_oop_exams\\08_dec_2024\\blackfriday-skeleton\\blackfriday\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|d:\\cs_oop_exams\\08_dec_2024\\blackfriday-skeleton\\blackfriday\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|d:\\cs_oop_exams\\08_dec_2024\\blackfriday-skeleton\\blackfriday\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|d:\\cs_oop_exams\\08_dec_2024\\blackfriday-skeleton\\blackfriday\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|d:\\cs_oop_exams\\08_dec_2024\\blackfriday-skeleton\\blackfriday\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|d:\\cs_oop_exams\\08_dec_2024\\blackfriday-skeleton\\blackfriday\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Models\\Service.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Models\\Service.cs",
+              "RelativeToolTip": "BlackFriday\\Models\\Service.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:42:21.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Models\\Item.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Models\\Item.cs",
+              "RelativeToolTip": "BlackFriday\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T16:37:44.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Core\\Engine.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Core\\Engine.cs",
+              "RelativeToolTip": "BlackFriday\\Core\\Engine.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T13:35:26.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Core\\Controller.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Core\\Controller.cs",
+              "RelativeToolTip": "BlackFriday\\Core\\Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T13:25:04.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Models\\Product.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Models\\Product.cs",
+              "RelativeToolTip": "BlackFriday\\Models\\Product.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwHQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T13:21:15.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Application.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Models\\Application.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Models\\Application.cs",
+              "RelativeToolTip": "BlackFriday\\Models\\Application.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T19:44:29.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "BlackFriday\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T19:30:59.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "BlackFriday\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T15:07:31.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Models\\Admin.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Models\\Admin.cs",
+              "RelativeToolTip": "BlackFriday\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T15:02:18.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Models\\Client.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Models\\Client.cs",
+              "RelativeToolTip": "BlackFriday\\Models\\Client.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:52:37.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\CS_OOP_EXAMS\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Models\\User.cs",
+              "ToolTip": "D:\\CS_OOP_EXAMS\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Models\\User.cs",
+              "RelativeToolTip": "BlackFriday\\Models\\User.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwF4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:26:03.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\asyai\Downloads\08_Dec_2024\UnitTest\NetTraderSystem-Skeleton\NetTraderSystem\bin\Debug\net6.0\NetTraderSystem.exe
+C:\Users\asyai\Downloads\08_Dec_2024\UnitTest\NetTraderSystem-Skeleton\NetTraderSystem\bin\Debug\net6.0\NetTraderSystem.deps.json
+C:\Users\asyai\Downloads\08_Dec_2024\UnitTest\NetTraderSystem-Skeleton\NetTraderSystem\bin\Debug\net6.0\NetTraderSystem.runtimeconfig.json
+C:\Users\asyai\Downloads\08_Dec_2024\UnitTest\NetTraderSystem-Skeleton\NetTraderSystem\bin\Debug\net6.0\NetTraderSystem.dll
+C:\Users\asyai\Downloads\08_Dec_2024\UnitTest\NetTraderSystem-Skeleton\NetTraderSystem\bin\Debug\net6.0\NetTraderSystem.pdb
+C:\Users\asyai\Downloads\08_Dec_2024\UnitTest\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asyai\Downloads\08_Dec_2024\UnitTest\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.AssemblyInfoInputs.cache
+C:\Users\asyai\Downloads\08_Dec_2024\UnitTest\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.AssemblyInfo.cs
+C:\Users\asyai\Downloads\08_Dec_2024\UnitTest\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.csproj.CoreCompileInputs.cache
+C:\Users\asyai\Downloads\08_Dec_2024\UnitTest\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.dll
+C:\Users\asyai\Downloads\08_Dec_2024\UnitTest\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\refint\NetTraderSystem.dll
+C:\Users\asyai\Downloads\08_Dec_2024\UnitTest\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.pdb
+C:\Users\asyai\Downloads\08_Dec_2024\UnitTest\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\NetTraderSystem.genruntimeconfig.cache
+C:\Users\asyai\Downloads\08_Dec_2024\UnitTest\NetTraderSystem-Skeleton\NetTraderSystem\obj\Debug\net6.0\ref\NetTraderSystem.dll

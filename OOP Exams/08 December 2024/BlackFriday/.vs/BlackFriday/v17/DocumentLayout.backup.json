@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asyai\\Downloads\\08_Dec_2024\\BlackFriday-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\asyai\\downloads\\08_dec_2024\\blackfriday-skeleton\\blackfriday\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\asyai\\downloads\\08_dec_2024\\blackfriday-skeleton\\blackfriday\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\asyai\\downloads\\08_dec_2024\\blackfriday-skeleton\\blackfriday\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\asyai\\downloads\\08_dec_2024\\blackfriday-skeleton\\blackfriday\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\asyai\\downloads\\08_dec_2024\\blackfriday-skeleton\\blackfriday\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\asyai\\downloads\\08_dec_2024\\blackfriday-skeleton\\blackfriday\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\asyai\\downloads\\08_dec_2024\\blackfriday-skeleton\\blackfriday\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\asyai\\downloads\\08_dec_2024\\blackfriday-skeleton\\blackfriday\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|c:\\users\\asyai\\downloads\\08_dec_2024\\blackfriday-skeleton\\blackfriday\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DF60671-6DB5-40BB-B9E2-632531D8BCB2}|BlackFriday\\BlackFriday.csproj|solutionrelative:blackfriday\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\asyai\\Downloads\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\asyai\\Downloads\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Core\\Engine.cs",
+              "RelativeToolTip": "BlackFriday\\Core\\Engine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T13:35:26.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\asyai\\Downloads\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Core\\Controller.cs",
+              "ToolTip": "C:\\Users\\asyai\\Downloads\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Core\\Controller.cs",
+              "RelativeToolTip": "BlackFriday\\Core\\Controller.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAowHMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T13:25:04.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\asyai\\Downloads\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\asyai\\Downloads\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Models\\Product.cs",
+              "RelativeToolTip": "BlackFriday\\Models\\Product.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T13:21:15.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\asyai\\Downloads\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Models\\Application.cs",
+              "ToolTip": "C:\\Users\\asyai\\Downloads\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Models\\Application.cs",
+              "RelativeToolTip": "BlackFriday\\Models\\Application.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswBwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T19:44:29.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asyai\\Downloads\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\asyai\\Downloads\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "BlackFriday\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T19:30:59.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\asyai\\Downloads\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\asyai\\Downloads\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "BlackFriday\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvzAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T15:07:31.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\asyai\\Downloads\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\asyai\\Downloads\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Models\\Admin.cs",
+              "RelativeToolTip": "BlackFriday\\Models\\Admin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T15:02:18.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\asyai\\Downloads\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\asyai\\Downloads\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Models\\Client.cs",
+              "RelativeToolTip": "BlackFriday\\Models\\Client.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:52:37.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\asyai\\Downloads\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Models\\User.cs",
+              "RelativeDocumentMoniker": "BlackFriday\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\asyai\\Downloads\\08_Dec_2024\\BlackFriday-Skeleton\\BlackFriday\\Models\\User.cs",
+              "RelativeToolTip": "BlackFriday\\Models\\User.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAADwv2EAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T14:26:03.84Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
